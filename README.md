@@ -18,3 +18,6 @@ Como executar o projeto
     Instale as dependências do projeto com o comando npm install
     Execute o comando npm start para iniciar o servidor
     Acesse a aplicação em http://localhost:3000
+
+## Para visualizar o projeto
+    https://react-app-ac-02.vercel.app/
