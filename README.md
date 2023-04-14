@@ -4,7 +4,7 @@
 Exemplo de aplicação em React com rotas usando BrowserRouter e Link
 Funcionalidades
 
-    Lista de funcionalidades do projeto
+    O aplicativo desenvolvido é uma aplicação simples em React que contém duas páginas, uma página principal e uma página de destino, ambas com navegação entre elas utilizando o react-router-dom. O objetivo da aplicação é demonstrar como criar rotas entre diferentes páginas em uma aplicação web usando React e como estilizá-las utilizando CSS.
 
 Tecnologias utilizadas
 
